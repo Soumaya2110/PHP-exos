@@ -1,0 +1,71 @@
+{
+    "items":[
+      {
+        "id": 1,
+        "name": "Bel ami",
+        "detail": "Maupassant",
+        "texte": "Description du livre, articles, avis....",
+        "texte2": "En savoir plus",
+        "image": "beaulivre.jpg"
+      },
+      {
+          "id": 2,
+          "name": "Candide",
+          "detail": "Voltaire",
+          "texte": "Description du livre, articles, avis....",
+          "texte2": "En savoir plus",
+          "image": "beaulivre.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Les misérables",
+          "detail": "Victor Hugo",
+          "texte": "Description du livre, articles, avis....",
+          "texte2": "En savoir plus",
+          "image": "beaulivre.jpg"
+        },
+
+        {
+          "id": 4,
+          "name": "Madame Bovary",
+          "detail": "Gustave Flaubert",
+          "texte": "Description du livre, articles, avis....",
+          "texte2": "En savoir plus",
+          "image": "beaulivre.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Adrienne Mesurat",
+          "detail": "Julien Green",
+          "texte": "Description du livre, articles, avis....",
+          "texte2": "En savoir plus",
+          "image": "beaulivre.jpg"
+        },
+
+{
+          "id": 6,
+          "name": "Le dernier jour d'un condamné",
+          "detail": "Victor Hugo",
+          "texte": "Description du livre, articles, avis....",
+          "texte2": "En savoir plus",
+          "image": "beaulivre.jpg"
+        },
+        {
+          "id": 7,
+          "name": "le Horla",
+          "detail": "Maupassant",
+          "texte": "Description du livre, articles, avis....",
+          "texte2": "En savoir plus",
+          "image": "beaulivre.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Le cid",
+          "detail": "Corneille",
+          "texte": "Description du livre, articles, avis....",
+          "texte2": "En savoir plus",
+          "image": "beaulivre.jpg"
+        }
+      
+    ]
+  }
